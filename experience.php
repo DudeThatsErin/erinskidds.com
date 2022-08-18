@@ -54,7 +54,7 @@
                     target="_blank"
                     ><i class="fa-brands fa-github"></i
                   ></a>
-                  <a href="https://erinskidds.com/sakura.html" target="_blank"
+                  <a href="https://dudethatserin.com/c2ba3760e54c43b384439012e30f15f7?v=bb0f431e8c154f8fb34cde89940ad40c" target="_blank"
                     ><i class="fa-solid fa-arrow-up-right-from-square"></i
                   ></a>
                 </span>
