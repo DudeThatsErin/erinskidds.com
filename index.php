@@ -1,13 +1,16 @@
 <?php include('./header.php'); ?>
-<div class="index-content" id="about">
-<span class="hello">Hello, my name is</span>
-<span class="name">Erin Skidds.</span>
-<span class="iam">I build things for the web.</span>
+<!-- START OF MAIN PAGE -->
 
-<span class="shortabout">I am a software developer based in Tampa, FL specializing in building
-  (an occasionally designing) exceptional blogs, forums, and everything
-  in between.</span>
+      <div class="index-content">
+        <span class="hello">Hello, my name is</span>
+        <span class="name">Erin Skidds.</span>
+        <span class="iam">I’m a <strong>Full-Stack Engineer</strong> who works on both front-end and back-end code.</span>
 
-<a href="#contact"><button class="contact">Get in Touch</button></a>
-</div>
+        <span class="shortabout">I have a few years of professional experience in Full-Stack Development. I am most skilled in Front-End Development. I specialize in building web-based applications, websites, and web-based bots.</span>
+
+        <a href="https://erinskidds.com/contact.php"><button class="contact">Get in Touch</button></a>
+      </div>
+
+
+<!-- END OF MAIN PAGE/INCLUDING FOOTER -->
 <?php include('./footer.php'); ?>

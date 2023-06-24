@@ -1,0 +1,115 @@
+@media screen and (max-width: 330px) and (min-width: 0px) {
+    body,
+    html {
+      font-size: 10px;
+    }
+
+    /* -------------
+    Main Page
+    ----------------
+    */
+    .index-content,
+    .about-content, #about {
+      width: 160px;
+      position: absolute;
+      top: 10%;
+      left: 15%;
+      transform: translateX(0%);
+    }
+
+    .name {
+      font-size: 12px;
+    }
+
+    .shortabout {
+      margin-top: 5px;
+    }
+
+    .shortabout,
+    .iam,
+    .hello {
+      font-size: 10px;
+    }
+
+    button.contact {
+      font-size: 10px;
+    }
+
+    .right-sidebar {
+      font-size: 10px;
+      height: 120px;
+    }
+
+    .logo a,
+    .left-sidebar .bottom a {
+      font-size: 10px;
+    }
+
+    .left-sidebar .bottom {
+      height: 80px;
+    }
+
+    header {
+      display: flex;
+      width: 100%;
+    }
+
+    nav {
+      align-items: right;
+      width: 68%;
+    }
+
+    .topnav a .icon {
+      margin-top: 2px;
+      text-align: right;
+      color: #fff;
+    }
+
+    .topnav {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .work, .examples {
+      padding: 0px;
+      position: absolute;
+      top: 5%;
+      left: 5%;
+      width: 280px;
+      font-size: var(--fz-xs);
+    }
+
+    .first-section,
+    .second-section,
+    .third-section {
+      width: 250px;
+      margin: 10px;
+      padding: 10px 10px 20px 10px;
+      border: 1px solid #6c6c6c;
+      background-color: #302f2f;
+      font-size: var(--fz-xs);
+    }
+
+    .featured {
+      width: 200px;
+      margin: 10px;
+      padding: 10px 10px 20px 10px;
+      font-size: var(--fz-xs);
+      box-shadow: none;
+    }
+
+    .bot_feat,
+    .ch_feat,
+    .ta_feat,
+    .as_feat,
+    .ed_feat,
+    .punch_feat,
+    .csharp_feat,
+    .csharpbot_feat,
+    .pythonBot_feat,
+    .body {
+      width: 200px;
+      box-shadow: none;
+      border: 2px solid #6c6c6c;
+    }
+  }
