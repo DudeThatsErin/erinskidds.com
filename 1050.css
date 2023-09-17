@@ -1,5 +1,11 @@
-@media screen and (max-width: 1198px) and (min-width: 901px) {
-
+  .index-content,
+  .about-content, #about {
+    width: 700px;
+    margin: 0 auto;
+    /* position: absolute;
+    top: 20%;
+    left: -5%; */
+  }
     .numbered-heading::after {
         width: 200px;
       }
@@ -95,4 +101,3 @@
     .logo a {
       z-index: 1;
     }
-  }

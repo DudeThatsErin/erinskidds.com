@@ -33,9 +33,11 @@
             </p>
           </div>
           <div class="modal-footer">
-            <span class="langs" title="Languages Used">Node.js Discord.js MySQL JavaScript</span>
-
-            <span class="links">
+            <span class="langs"><strong>Languages Used:</strong> Node.js <a href="https://discord.js.org/" target="_blank" title="Click here to see what Discord.js is">Discord.js</a> MySQL JavaScript</span>
+            <br />
+            <strong>Find Sakura Moon here:</strong>
+            <br />
+            <span class="links" style="padding-top: 8px">
               <a href="https://github.com/DudeThatsErin/sakura-moon" target="_blank"><i class="fa-brands fa-github"></i></a>
               <a href="https://dudethatserin.com/c2ba3760e54c43b384439012e30f15f7?v=bb0f431e8c154f8fb34cde89940ad40c" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
             </span>

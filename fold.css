@@ -1,15 +1,5 @@
-    .index-content {
-      width: 400px;
-      /* position: absolute;
-      top: 10%;
-      left: -5%; */
-    }
-
-    .about-content {
-      width: 400px;
-      position: absolute;
-      top: 8%;
-      left: 12%;
+    .index-content, .about-content {
+      width: 200px;
     }
 
     nav {
@@ -17,11 +7,22 @@
       display: flex;
       justify-content: right;
       margin-right: 10px;
+      position: absolute;
+      right: 5px;
     }
 
     .logo {
       margin-left: 10px;
     }
+
+    .img {
+        height: 150px;
+      }
+
+      .modal-content {
+        max-height: calc(100vh - 5px);
+        overflow-y: auto;
+      }
 
     label {
       display: block;
@@ -135,7 +136,7 @@
     .second-section,
     .third-section {
       font-size: 12px;
-      max-width: 330px;
+      max-width: 200px;
     }
 
     .first-section h3,
@@ -146,7 +147,7 @@
 
     .numbered-heading {
         font-size: 24px;
-        width: 400px;
+        width: 200px;
     }
 
     .menu {
@@ -225,3 +226,8 @@
     .name {
         animation: typing 1.5s steps(60, end), blink-caret 1s step-end infinite;
     }
+
+    span.mobile {
+        padding-top: 15px;
+        display: block;
+      }

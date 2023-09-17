@@ -26,8 +26,8 @@
             </p>
         </div>
         <div class=" modal-footer">
-            <span class="langs" alt="Languages Used">HTML CSS PHP</span>
-
+        <span class="langs"><strong>Languages Used:</strong>HTML CSS PHP</span>
+            <strong>Find Hostwish Hosting here:</strong><br />
             <span class="links">
                 <a href="https://web.archive.org/web/20091215001531/http://foreverangel.info/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" title="Check it out on the Wayback Machine"></i></a>
             </span>

@@ -139,7 +139,7 @@ nav label:hover {
   position: fixed;
   bottom: 0;
   left: 0;
-  height: 100px;
+  height: 50px;
   width: auto;
   margin-left: 10px;
 }
@@ -562,8 +562,44 @@ EXP PAGE
   box-shadow: 5px 5px 5px #6c6c6c;
 }
 
+.enth_feat {
+  width: 300px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin: 10px 10px 20px 10px;
+  background: #302f2f url("./assets/enth.png") center center;
+}
+
+.la_feat {
+  width: 300px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin: 10px 10px 20px 10px;
+  background: #302f2f url("./assets/la.png") center center;
+}
+
+.dte_feat {
+  width: 300px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin: 10px 10px 20px 10px;
+  background: #302f2f url("./assets/dte.png") center center;
+}
+
+.appseeker_feat {
+  width: 300px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin: 10px 10px 20px 10px;
+  background: #302f2f url("./assets/appseeker.png") center center;
+}
+
 
 .bot_feat,
+.appseeker_feat,
+.enth_feat,
+.la_feat,
+.dte_feat,
 .ch_feat,
 .ta_feat,
 .as_feat,
@@ -621,6 +657,10 @@ EXP PAGE
 
 .links a:hover {
   color: #eee;
+}
+
+span.mobile {
+  display: none;
 }
 
 /* The Modal (background) */

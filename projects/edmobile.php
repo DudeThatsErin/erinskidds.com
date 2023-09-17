@@ -25,10 +25,12 @@
             </p>
           </div>
           <div class="modal-footer">
-            <span class="langs" title="Languages Used">Flutter Dart DirectUS CMS</span>
-
-            <span class="links">
-              &nbsp;
+            <span class="langs"><strong>Languages Used:</strong> Flutter Dart DirectUS CMS</span>
+            <br />
+            <strong>Censored code is not uploaded for viewing.</strong>
+            <br />
+            <span class="links" style="padding-top: 8px">
+              &npsp;
             </span>
           </div>
         </div>

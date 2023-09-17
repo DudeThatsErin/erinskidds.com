@@ -1,11 +1,10 @@
-@media screen and (max-width: 800px) and (min-width: 701px) {
     .index-content,
     .about-content {
-      width: 410px;
+      width: 650px;
       margin: 0 auto;
-      position: absolute;
+      /* position: absolute;
       top: 20%;
-      left: 0%;
+      left: 0%; */
     }
 
     nav {
@@ -78,10 +77,21 @@
       cursor: pointer;
     }
 
-    .first-secion,
+    /* .first-section,
     .second-section,
     .third-section {
-      width: 400px;
+      width: 600px;
+    } */
+
+    .numbered-heading {
+      width: 600px;
+      white-space: normal;
+      word-wrap: break-word;
+      height: 40px;
+    }
+
+    .numbered-heading::after {
+      display: none;
     }
 
     .menu a, .menu a:active, .menu a:visited, .menu a:link {
@@ -117,4 +127,3 @@
         top: 8%;
         left: 8%;
       }
-  }

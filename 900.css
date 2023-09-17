@@ -1,11 +1,10 @@
-@media screen and (max-width: 900px) and (min-width: 801px) {
     .index-content,
     .about-content, #about {
       width: 500px;
       margin: 0 auto;
-      position: absolute;
+      /* position: absolute;
       top: 20%;
-      left: -5%;
+      left: -5%; */
     }
 
     nav {
@@ -109,4 +108,3 @@
     .name {
         animation: typing 2s steps(60, end), blink-caret 1s step-end infinite;
     }
-  }

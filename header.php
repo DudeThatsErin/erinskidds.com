@@ -3,15 +3,17 @@
 
 <head>
   <title>Erin Skidds</title>
-  <link rel="stylesheet" href="style.css?v1" />
-  <link rel="stylesheet" href="1480.css?v4" />
-  <link rel="stylesheet" href="1200.css?v3" />
-  <link rel="stylesheet" href="1050.css?v3" />
-  <link rel="stylesheet" href="900.css?v4" />
-  <link rel="stylesheet" href="800.css?v2" />
-  <link rel="stylesheet" href="700.css?v5" />
-  <link rel="stylesheet" href="650.css?v13" />
-  <link rel="stylesheet" href="400.css?v25" />
+  <link rel="stylesheet" href="style.css?v2.6" media="all" />
+  <link rel="stylesheet" href="1480.css?v1" media="screen and (max-width: 1700px) and (min-width: 1201px)" />
+  <link rel="stylesheet" href="1200.css?v1" media="screen and (max-width: 1200px) and (min-width: 1199px)" />
+  <link rel="stylesheet" href="1050.css?v1.3" media="screen and (max-width: 1198px) and (min-width: 901px)" />
+  <link rel="stylesheet" href="900.css?v1.1" media="screen and (max-width: 900px) and (min-width: 801px)" />
+  <link rel="stylesheet" href="800.css?v2.8" media="screen and (max-width: 800px) and (min-width: 701px)" />
+  <link rel="stylesheet" href="700.css?v1" media="screen and (max-width: 700px) and (min-width: 690px)" />
+  <link rel="stylesheet" href="650.css?v1.3" media="screen and (max-width: 689px) and (min-width: 535px)" />
+  <link rel="stylesheet" href="400.css?v2.5" media="screen and (max-width: 479px) and (min-width: 250px)" />
+  <link rel="stylesheet" href="fold.css?v1.6" media="screen and (max-width: 285px) and (min-width: 275px)" /> <!-- galaxy fold css -->
+  <link rel="stylesheet" href="iphone.css?v1.6" media="screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 800px)" /> <!-- iPhone 11 CSS -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="UTF-8" />
   <link rel="icon" type="image/x-icon" href="./assets/favicon.ico">
@@ -62,9 +64,6 @@
     <div class="bottom">
       <a href="https://github.com/DudeThatsErin" target="_blank">
         <i class="fa-brands fa-github"></i>
-      </a>
-      <a href="https://linkedin.com/in/ErinSkidds" target="_blank">
-          <i class="fa-brands fa-linkedin"></i>
       </a>
     </div>
   </div>

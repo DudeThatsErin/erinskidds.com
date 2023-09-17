@@ -27,10 +27,17 @@
             </p>
           </div>
           <div class="modal-footer">
-            <span class="langs" title="Languages Used">WordPress HTML CSS PHP JavaScript MySQL</span>
+            <span class="langs"><strong>Languages Used:</strong> WordPress HTML CSS PHP JavaScript MySQL</span>
+            <br />
+            <strong>Find Travel Agent 360 here:</strong>
+            <br />
+            <span class="links" style="padding-top: 8px">
+              <a href="https://web.archive.org/web/20220322104100/https://travelagent360.us/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" title="View TA360 on the Wayback Machine! Note: Styles are broken!"></i></a>
+            </span>
+            <span class="langs" title="Languages Used"></span>
 
             <span class="links">
-              <a href="https://travelagent360.us" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+
             </span>
           </div>
         </div>

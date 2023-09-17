@@ -16,6 +16,10 @@
   include('./projects/fa.php');
   include('./projects/dtm.php');
   include('./projects/hostwish.php');
+  include('./projects/dte.php');
+  include('./projects/appseeker.php');
+  include('./projects/enth.php');
+  include('./projects/la.php');
   ?>
 </div>
 

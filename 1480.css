@@ -36,8 +36,6 @@
     --ham-after-active: bottom 0.1s ease-out,
       transform 0.22s cubic-bezier(0.215, 0.61, 0.355, 1) 0.12s;
 }
-
-@media screen and (max-width: 1700px) and (min-width: 1201px) {
     .index-content,
     .about-content, #about {
       vertical-align: middle;
@@ -80,4 +78,3 @@
         cursor: pointer;
         border-radius: 5px;
     }
-  }

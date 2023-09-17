@@ -26,9 +26,11 @@
             </p>
           </div>
           <div class="modal-footer">
-            <span class="langs" alt="Languages Used">WordPress C#/.NET JavaScript PHP</span>
-
-            <span class="links">
+            <span class="langs"><strong>Languages Used:</strong> WordPress C#/.NET JavaScript PHP</span>
+            <br />
+            <strong>Censored code is not uploaded for viewing.</strong>
+            <br />
+            <span class="links" style="padding-top: 8px">
               &nbsp;
             </span>
           </div>

@@ -26,11 +26,13 @@
             </p>
           </div>
           <div class="modal-footer">
-            <span class="langs" title="Languages Used">Dart Flutter C# .NET Core</span>
-
-            <span class="links">
-              &nbsp;
+          <span class="langs"><strong>Languages Used:</strong> Dart Flutter C# .NET Core</span>
+            <br />
+            <strong>Censored code is not uploaded for viewing.</strong>
+            <br />
+            <span class="links" style="padding-top: 8px">
+              &npsp;
             </span>
           </div>
         </div>
-              </div>
+      </div>

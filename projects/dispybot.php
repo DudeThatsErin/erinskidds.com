@@ -25,11 +25,13 @@
           </p>
         </div>
         <div class="modal-footer">
-          <span class="langs" title="Languages Used">Python Discord.py</span>
-
-          <span class="links">
-            <a href="https://github.com/DudeThatsErin/dpy-bot" target="_blank"><i class="fa-brands fa-github"></i></a>
-          </span>
+          <span class="langs"><strong>Languages Used:</strong> Python <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" title="Learn about Discord.py">Discord.py</a></span>
+            <br />
+          <strong>Censored Code is not uploaded for viewing.</strong>
+            <br />
+            <span class="links" style="padding-top: 8px">
+              <a href="https://github.com/DudeThatsErin/dpy-bot" target="_blank"><i class="fa-brands fa-github"></i></a>
+            </span>
         </div>
       </div>
     </div>

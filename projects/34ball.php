@@ -27,10 +27,12 @@
             </p>
           </div>
           <div class="modal-footer">
-            <span class="langs" alt="Languages Used">Angular JavaScript PHP RestAPI</span>
-
-            <span class="links">
-              &nbsp;
+            <span class="langs"><strong>Languages Used:</strong> Angular JavaScript PHP RestAPI</span>
+            <br />
+            <strong>Censored Code is not uploaded for viewing.</strong>
+            <br />
+            <span class="links" style="padding-top: 8px">
+              &nbps;
             </span>
           </div>
         </div>
